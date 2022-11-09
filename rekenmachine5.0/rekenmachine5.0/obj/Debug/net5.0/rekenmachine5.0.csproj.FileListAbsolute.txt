@@ -1,0 +1,16 @@
+C:\Users\fabio\source\repos\rekenmachine5.0\rekenmachine5.0\bin\Debug\net5.0\rekenmachine5.0.exe
+C:\Users\fabio\source\repos\rekenmachine5.0\rekenmachine5.0\bin\Debug\net5.0\rekenmachine5.0.deps.json
+C:\Users\fabio\source\repos\rekenmachine5.0\rekenmachine5.0\bin\Debug\net5.0\rekenmachine5.0.runtimeconfig.json
+C:\Users\fabio\source\repos\rekenmachine5.0\rekenmachine5.0\bin\Debug\net5.0\rekenmachine5.0.runtimeconfig.dev.json
+C:\Users\fabio\source\repos\rekenmachine5.0\rekenmachine5.0\bin\Debug\net5.0\rekenmachine5.0.dll
+C:\Users\fabio\source\repos\rekenmachine5.0\rekenmachine5.0\bin\Debug\net5.0\rekenmachine5.0.pdb
+C:\Users\fabio\source\repos\rekenmachine5.0\rekenmachine5.0\obj\Debug\net5.0\rekenmachine5.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\rekenmachine5.0\rekenmachine5.0\obj\Debug\net5.0\rekenmachine5.0.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\rekenmachine5.0\rekenmachine5.0\obj\Debug\net5.0\rekenmachine5.0.AssemblyInfo.cs
+C:\Users\fabio\source\repos\rekenmachine5.0\rekenmachine5.0\obj\Debug\net5.0\rekenmachine5.0.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\rekenmachine5.0\rekenmachine5.0\obj\Debug\net5.0\rekenmachine5.0.dll
+C:\Users\fabio\source\repos\rekenmachine5.0\rekenmachine5.0\obj\Debug\net5.0\ref\rekenmachine5.0.dll
+C:\Users\fabio\source\repos\rekenmachine5.0\rekenmachine5.0\obj\Debug\net5.0\rekenmachine5.0.pdb
+C:\Users\fabio\source\repos\rekenmachine5.0\rekenmachine5.0\obj\Debug\net5.0\rekenmachine5.0.genruntimeconfig.cache
+C:\Users\fabio\source\repos\rekenmachine5.0\rekenmachine5.0\obj\Debug\net5.0\rekenmachine5.0.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\rekenmachine5.0\rekenmachine5.0\obj\Debug\net5.0\refint\rekenmachine5.0.dll
